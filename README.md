@@ -18,3 +18,9 @@ server
 - http://127.0.0.1:8000/admin/login/?next=/admin/
 
 - Model -> Serializer -> Views -> URL [Test with the Django's Browserable api interface]
+
+- Install react-router-dom
+  
+  ```
+  npm i react-router-dom
+  ```
