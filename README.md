@@ -4,6 +4,8 @@
 - https://djecrety.ir/
 -  https://www.npmjs.com/package/axios
 -  https://pypi.org/project/django-cors-headers/
+-  https://pypi.org/project/djangorestframework-simplejwt/
+-  https://django-rest-framework-simplejwt.readthedocs.io/en/latest/getting_started.html
 -  https://docs.fontawesome.com/v5/web/use-with/react
 
 
@@ -46,3 +48,7 @@ npm i --save @fortawesome/fontawesome-svg-core
 npm install --save @fortawesome/free-solid-svg-icons
 npm install --save @fortawesome/react-fontawesome
 ```
+
+# To show LocalStorage in chrome browser
+
+- inspect page -> Network >> Application -> Storage -> Local Storage
