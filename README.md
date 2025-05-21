@@ -6,8 +6,9 @@
 -  https://pypi.org/project/django-cors-headers/
 -  https://pypi.org/project/djangorestframework-simplejwt/
 -  https://django-rest-framework-simplejwt.readthedocs.io/en/latest/getting_started.html
+-  https://django-rest-framework-simplejwt.readthedocs.io/en/latest/settings.html
 -  https://docs.fontawesome.com/v5/web/use-with/react
-
+- https://axios-http.com/docs/interceptors
 
 ```
 python manage.py migrate
@@ -52,3 +53,11 @@ npm install --save @fortawesome/react-fontawesome
 # To show LocalStorage in chrome browser
 
 - inspect page -> Network >> Application -> Storage -> Local Storage
+
+
+** http://127.0.0.1:8000/api/v1/protected-view
+- Check postman  -> auth -> select Bearer token  -> paste refresh token
+- http://127.0.0.1:8000/api/v1/token/
+- https://django-rest-framework-simplejwt.readthedocs.io/en/latest/settings.html
+  
+[# Django project settings.py]
