@@ -1,7 +1,13 @@
 ipykernel
-numpy
+#numpy
 pandas
 scikit-learn
 matplotlib
 seaborn
 yfinance
+keras
+#tensorflow
+numpy==1.26.4 
+tensorflow==2.15
+
+# pip install --no-cache-dir tensorflow==2.15 numpy==1.26.4
